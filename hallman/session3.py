@@ -43,6 +43,7 @@ class Repo_dir(object):
 	   		os.chdir(self.new)
 	   	except OSError:
 		   	print 'OSError: Check that path exists'
+		   	exit()
    	
    	def __exit__(self, type, value, tb):
    		os.chdir(self.original)	
