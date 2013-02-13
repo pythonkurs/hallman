@@ -1,0 +1,5 @@
+There are 48 members of the course organization, but only 29 of them have bothered to make a sub repository at the course reposityory, with an average of 9 commits per repo.
+
+Apart from the first week, the day with the least amount of commits is saturday and overall sundays have the least amount of total commits.
+ 
+Also, Britta Doesnt know how to push to the course repo, delaying our progress by at least half an hour and forcing everybody to implement a "try" when getting repo data.
